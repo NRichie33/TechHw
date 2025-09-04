@@ -1,2 +1,2 @@
 # TechHw
-Repository for tech homework
+This is something different than what I said in github.
